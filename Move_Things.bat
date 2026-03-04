@@ -1,5 +1,5 @@
-::when opening file to run,
-::right click batch file and  "run as administrator" to grant admin privileges
+::when opening file to run from desktop,
+::right click the file and  "run as administrator" to grant admin privileges
 @echo off
 :: Check for permissions
 echo Requesting Admin Permissions...
